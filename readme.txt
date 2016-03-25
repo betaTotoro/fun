@@ -3,3 +3,5 @@ Git is free software.
 
 This is the Second message.
 
+This is the Third message.
+
