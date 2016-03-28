@@ -10,7 +10,3 @@ Untracked files:
 
 	howtouse
 	status.txt
-
-branch: dev
-branch dev1
-master:new
