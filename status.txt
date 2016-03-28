@@ -1,5 +1,5 @@
 ###### comment #####
-On branch master
+On branch dev1
 Changes to be committed:
   (use "git reset HEAD <file>..." to unstage)
 
@@ -12,3 +12,4 @@ Untracked files:
 	status.txt
 
 branch: dev
+branch dev1
