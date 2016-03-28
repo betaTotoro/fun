@@ -10,3 +10,4 @@ Untracked files:
 
 	howtouse
 	status.txt
+new line
